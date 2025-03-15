@@ -1,0 +1,11 @@
+[project]
+name = "dkz-lab"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.10.1",
+    "psutil>=7.0.0",
+    "tinydb>=4.8.2",
+]
