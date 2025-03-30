@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "chromadb>=0.6.3",
     "fastapi>=0.115.11",
     "locust>=2.33.2",
     "matplotlib>=3.10.1",

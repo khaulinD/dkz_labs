@@ -1,0 +1,92 @@
+{
+  "diagnostics": {
+    "1": {
+      "timestamp": 1743336954.103519,
+      "cpu_usage": 5.2,
+      "memory_usage": 44.3,
+      "disk_usage": 100.0,
+      "bytes_sent_MB": 27.70711931796322,
+      "bytes_recv_MB": 225007.39599609375
+    },
+    "2": {
+      "timestamp": 1743337548.681407,
+      "cpu_usage": 6.5,
+      "memory_usage": 48.2,
+      "disk_usage": 100.0,
+      "bytes_sent_MB": 32.25898052766236,
+      "bytes_recv_MB": 233703.71923828125
+    },
+    "3": {
+      "timestamp": 1743337551.733131,
+      "cpu_usage": 21.0,
+      "memory_usage": 48.1,
+      "disk_usage": 100.0,
+      "bytes_sent_MB": 32.25922068569175,
+      "bytes_recv_MB": 233704.07421875
+    },
+    "4": {
+      "timestamp": 1743337555.026407,
+      "cpu_usage": 7.8,
+      "memory_usage": 48.6,
+      "disk_usage": 100.0,
+      "bytes_sent_MB": 32.259809508694985,
+      "bytes_recv_MB": 233705.146484375
+    },
+    "5": {
+      "timestamp": 1743337558.065249,
+      "cpu_usage": 11.8,
+      "memory_usage": 48.5,
+      "disk_usage": 100.0,
+      "bytes_sent_MB": 32.260048464431364,
+      "bytes_recv_MB": 233705.67626953125
+    },
+    "6": {
+      "timestamp": 1743337561.100321,
+      "cpu_usage": 9.3,
+      "memory_usage": 48.4,
+      "disk_usage": 100.0,
+      "bytes_sent_MB": 32.263762347549246,
+      "bytes_recv_MB": 233710.5302734375
+    },
+    "7": {
+      "timestamp": 1743337564.143525,
+      "cpu_usage": 8.8,
+      "memory_usage": 48.6,
+      "disk_usage": 100.0,
+      "bytes_sent_MB": 32.263846808633424,
+      "bytes_recv_MB": 233710.64697265625
+    },
+    "8": {
+      "timestamp": 1743337567.213333,
+      "cpu_usage": 11.8,
+      "memory_usage": 48.5,
+      "disk_usage": 100.0,
+      "bytes_sent_MB": 32.26434305507464,
+      "bytes_recv_MB": 233712.72900390625
+    },
+    "9": {
+      "timestamp": 1743337570.324185,
+      "cpu_usage": 7.2,
+      "memory_usage": 48.4,
+      "disk_usage": 100.0,
+      "bytes_sent_MB": 32.26457179132041,
+      "bytes_recv_MB": 233713.07421875
+    },
+    "10": {
+      "timestamp": 1743337573.363803,
+      "cpu_usage": 11.7,
+      "memory_usage": 48.5,
+      "disk_usage": 100.0,
+      "bytes_sent_MB": 32.26482367170668,
+      "bytes_recv_MB": 233713.2490234375
+    },
+    "11": {
+      "timestamp": 1743337576.398066,
+      "cpu_usage": 8.5,
+      "memory_usage": 48.5,
+      "disk_usage": 100.0,
+      "bytes_sent_MB": 32.26511522776239,
+      "bytes_recv_MB": 233713.33642578125
+    }
+  }
+}

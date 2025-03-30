@@ -22,6 +22,10 @@ def start_data_collection():
     data_thread = threading.Thread(target=main, daemon=True)  # Run in the background
     data_thread.start()
 
+
+
+
+
 if __name__ == '__main__':
     start_data_collection()  # Start background data collection
     create_ui()  # Start Streamlit UI
